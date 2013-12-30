@@ -10,7 +10,7 @@
 
 用在块级元素上，而且必须指定宽度。
 
-(3)还有一种是绝对定位，left: 50%; margin-left: -(width)px; 此方法也可垂直居中。
+(3)还有一种是绝对定位，left: 50%; margin-left: -(width)px; 此方法也可垂直居中（如果有 padding 的话 (width + padding)/2 ）。
 
 # 垂直居中 #
 
