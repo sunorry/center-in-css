@@ -1,10 +1,10 @@
 # 水平居中 #
 
-** text-align: center; **
+<b>text-align: center;</b>
 
 只能用在块级元素上，此块级元素的子元素(必须是 inline content)就可以居中了。
 
-** margin: auto; **
+<b>margin: auto;</b>
 
 用在块级元素上，而且必须指定宽度。
 
