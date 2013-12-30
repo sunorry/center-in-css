@@ -1,3 +1,5 @@
+常见的水平和垂直居中只是简单提下，后面的 CSS3 方法我会写 demo 测试
+
 # 水平居中 #
 
 (1)<b>text-align: center;</b>
@@ -23,3 +25,6 @@
 ③在置换行内元素使用 inline-height 是没用的。(现在所有的浏览器在这点都实现错了)
 
 (2)<b>display: table-cell; vertical-align: middle;</b>
+
+# CSS3 方法 #
+
