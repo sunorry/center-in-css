@@ -46,3 +46,7 @@ W3.org: If none of the three [top, bottom, height] are 'auto': If both 'margin-t
 (1) <b>display: flex;</b>
 
 -webkit-align-items: center; align-items: center; 再指定高度，这样就可以让里面的指定高度的子元素竖直居中了。
+
+---
+
+test
